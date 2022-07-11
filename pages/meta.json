@@ -1,7 +1,6 @@
 {
   "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "short-code": "Short Code",
+  "contribute": "Contribute",
+  "open-source-resources": "Open Source Resources"
 }
